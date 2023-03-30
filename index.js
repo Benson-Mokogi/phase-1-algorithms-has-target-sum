@@ -13,7 +13,8 @@ function hasTargetSum(array, target) {
       } 
     }
   }
-
+  console.log(false)
+  return false;
 }
 hasTargetSum([3, 8, 12, 4, 11, 7], 10);
 /* 
